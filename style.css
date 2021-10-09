@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 70px;
+}
+.orange-bg{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: purple;
+    font-weight: bold;
+    text-transform: inherit;
+}
+.buy-now{
+     background-image: linear-gradient(to bottom,#ff589b 0%, #ff58ff 100%);
+    color: white;
+    border: none ;
+    border-radius: 10px ;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px 15px;
+}
